@@ -1,0 +1,60 @@
+:root {}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+/* main-page */
+.logo {
+    font-family: "releway"sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.logo-span-header {
+    color: #2e2f42;
+}
+
+.nav-items {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.nav-items:hover,
+.nav-items:focus {
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+
+}
+
+.list {
+    list-style: none;
+}
+
+.address-info {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.address-info:hover,
+.address-info:focus {
+    color: #404bbf;
+}
